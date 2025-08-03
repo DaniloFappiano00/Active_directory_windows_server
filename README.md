@@ -1,0 +1,3 @@
+# Active_directory_windows_server
+
+Active Directory è un servizio di directory sviluppato da Microsoft che permette di gestire in modo centralizzato utenti, computer, gruppi e risorse all'interno di una rete aziendale. Funziona come un database gerarchico che autentica gli accessi, autorizza l'uso delle risorse e consente agli amministratori di applicare criteri di sicurezza e configurazione a tutto il sistema. È fondamentale in ambienti Windows Server perché permette di creare un dominio, ovvero un'area controllata da un Domain Controller, in cui tutti i dispositivi e gli account sono organizzati e controllati in modo centralizzato.
